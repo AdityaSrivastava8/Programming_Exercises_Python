@@ -1,4 +1,4 @@
-# Print Armstrong Numbers from 1 to 1000
+## Print Armstrong Numbers from 1 to 1000
 
 print("Armstrong numbers from 1 to 1000:")
 
